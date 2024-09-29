@@ -1,7 +1,8 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .w3-top {
-    background-image: url('logofon.');
+    background-image: url('logofon.jpg');
+    background-repeat: no-repeat;
 }
 .header {
         padding: 8px;
