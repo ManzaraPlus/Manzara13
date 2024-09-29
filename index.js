@@ -1,1 +1,1 @@
-document.getElementById('logotip').innerHTML = ''
+document.getElementById('logotip').innerHTML = 'Tabiat Manzaralari 🌸'
