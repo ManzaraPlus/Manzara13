@@ -1,3 +1,4 @@
+document.getElementById('sd0').innerHTML = 'Foto ';
 document.getElementById('sd1').innerHTML = 'Tabiat';
 document.getElementById('sd2').innerHTML = 'Bahor';
 document.getElementById('sd3').innerHTML = 'Yoz';
