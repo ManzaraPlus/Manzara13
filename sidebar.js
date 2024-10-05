@@ -1,1 +1,1 @@
-document.getElementById('logotip').innerHTML = 'Ta';
+document.getElementById('sd').innerHTML = 'Tabiat';
