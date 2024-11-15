@@ -44,3 +44,7 @@ div.desc {
   display: table;
   clear: both;
 }
+
+.w3-top {
+    background: #fff;
+}
