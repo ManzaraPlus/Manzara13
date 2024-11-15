@@ -21,6 +21,10 @@ div.desc {
   box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+}
+
 .responsive {
   padding: 0 6px;
   float: left;
